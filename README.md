@@ -1,3 +1,13 @@
+---
+title: Company Website Analysis Tool with Exa and Groq
+emoji: ⚡
+colorFrom: green
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: app.py
+pinned: false
+---
 # Company Website Analysis Tool with Exa and Groq
 
 ## Overview
@@ -17,13 +27,3 @@ The **Company Website Analysis Tool** is a Streamlit application that uses the E
 - **Streamlit**: Web application framework for Python.
 - **Exa API Key**: Required to access the Exa API for company analysis.
 - **Groq API Key**: Required to access the Groq API for generating summaries.
----
-title: Company Website Analysis Tool with Exa and Groq
-emoji: ⚡
-colorFrom: green
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.38.0
-app_file: app.py
-pinned: false
----
